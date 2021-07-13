@@ -46,4 +46,4 @@ Note the following additional implicit requirements implemented:
 1. No blank spaces in the input file are tolerated.
 2. No empty lines in the input file are tolerated.
 3. Input is parsed line by line. If there is invalid input halfway through, all valid commands are processed before outputting “Input error.”
-4. A test .txt file (test.txt) is included with example input, as well as the corresponding output file, output.txt, which demostrates the correct and expected output from the program.
+4. A testFiles folder is attached which contains sample input and output files. These demonstrate the correct and expected output from the program.

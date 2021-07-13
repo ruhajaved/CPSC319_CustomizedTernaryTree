@@ -1,0 +1,10 @@
+Add operation not possible.
+root
+overrided ; rM ; rR
+rML ; rMM ; rMR ; rRR,,
+rMLM ; rMLR ; rMML ; rMMM ; rMRM
+root
+overrided ; rM ; rR
+rML ; rMM ; rMR ; rRR,,
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+Input error.

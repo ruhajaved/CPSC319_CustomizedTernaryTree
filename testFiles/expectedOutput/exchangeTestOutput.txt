@@ -1,0 +1,17 @@
+newRoot
+root
+root
+root
+root
+root
+root
+rleft ; rmid ; rright
+root, ; root,, ; root
+exchangedddd
+exchangedddd
+rleft ; rmid ; rright
+root, ; root,, ; exchangedddd
+exchangedddd
+exchangedddd
+rleft ; rmid ; rright
+root, ; alsoEXCHANGED! ; exchangedddd

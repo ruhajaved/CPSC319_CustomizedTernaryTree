@@ -1,0 +1,8 @@
+Add operation not possible.
+Add operation not possible.
+Add operation not possible.
+root
+rL ; rM ; rR
+rLL ; rLM ; rLR ; rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM
+Input error.

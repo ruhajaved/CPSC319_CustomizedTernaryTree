@@ -1,0 +1,35 @@
+newRoot
+newRootSpecial!
+newRootSpecial!
+newRootSpecial!
+root
+newRootSpecial!
+root
+rleft ; rmid ; rright
+root, ; root,, ; root
+newRootSpecial!
+exchangedddd
+rleft ; rmid ; rright
+root, ; root,, ; exchangedddd
+newRootSpecial!
+exchangedddd
+rleft ; rmid ; rright
+root, ; alsoEXCHANGED! ; exchangedddd
+newRootSpecial!
+exchangedddd
+rleft ; rmid ; rright
+root, ; alsoEXCHANGED! ; exchangedddd
+root,
+root,
+newRootSpecial!
+exchangedddd
+rleft ; rmid ; rright
+root,wasSPECIALEXCHANGED! ; alsoEXCHANGED! ; exchangedddd
+root,wasSPECIALEXCHANGED!
+root,wasSPECIALEXCHANGED!
+newRootSpecial!
+exchangedddd
+rleft ; rmid ; rright
+root,wasSPECIALEXCHANGED! ; alsoEXCHANGED! ; exchangedddd
+root,wasSPECIALEXCHANGED!
+root,wasSPECIALEXCHANGED!

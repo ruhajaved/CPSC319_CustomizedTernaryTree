@@ -1,0 +1,55 @@
+Add operation not possible.
+root
+overrided ; rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM
+root
+overrided ; rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root
+overrided ; rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root
+overrided ; rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root2
+root
+overrided ; rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root2 ; root2
+root2ML ; root2MM
+root
+overrided ; rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root2 ; $also_OVERRIDED!!!!
+root2ML ; root2MM
+root
+overrided ; rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root2 ; $also_OVERRIDED!!!!
+root2LL ; root2LM ; root2ML ; root2MM
+root
+overrided ; rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root2 ; $also_OVERRIDED!!!! ; root2
+root2LL ; root2LM ; root2ML ; root2MM ; root2RL ; root2RM ; root2RR
+Add operation not possible.
+root
+overrided ; rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root2 ; $also_OVERRIDED!!!! ; root2
+root2LL ; root2LM ; root2ML ; root2MM ; root2RL ; root2RM ; root2RR
+root
+overrided ; rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root2 ; $also_OVERRIDED!!!! ; root2
+root2LL ; root2LM ; root2ML ; root2MM ; root2RL ; root2RM ; root3

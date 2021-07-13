@@ -1,0 +1,89 @@
+Add operation not possible.
+Add operation not possible.
+Add operation not possible.
+root
+rL ; rM ; rR
+rLL ; rLM ; rLR ; rML ; rMM ; rMR ; rRR
+rLLL ; rLLM ; rLLR ; rMLM ; rMLR ; rMML ; rMMM ; rMRM
+root
+rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM
+root
+rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root
+rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root2
+root2LM ; root2LR
+root
+rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root2 ; root2
+root2LM ; root2LR
+root
+rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root2 ; root2
+root2LM ; root2LR ; root2ML ; root2MR
+Add operation not possible.
+Add operation not possible.
+Add operation not possible.
+root
+rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root2 ; root2
+root2LM ; root2LR ; root2ML ; root2MR
+root
+rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root2 ; root2 ; root2
+root2LM ; root2LR ; root2ML ; root2MR ; root2RL ; root2RM
+Add operation not possible.
+Add operation not possible.
+root
+rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root2 ; root2 ; root2
+root2LM ; root2LR ; root2ML ; root2MR ; root2RL ; root2RM ; root2RR
+root
+rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root2 ; root2 ; root2
+root2ML ; root2MR ; root2RL ; root2RM ; root2RR
+root
+rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root2 ; root2
+root2ML ; root2MR ; root2RL ; root2RM ; root2RR
+root
+rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root2 ; root2
+root2RL ; root2RM ; root2RR
+root
+rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root2
+root2RL ; root2RM ; root2RR
+root
+rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
+root2
+root
+rM ; rR
+rML ; rMM ; rMR ; rRR
+rMLM ; rMLR ; rMML ; rMMM ; rMRM ; root
